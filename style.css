@@ -64,35 +64,22 @@ Analytico fonts
         url(fonts/analytico/Analytico-BoldItalic.otf) format('OpenType');
 }
 
-/* @font-face {
-    font-family: 'Analytico';
-    src: url('fonts/Analytico.woff2') format('woff2');
-    src: url('fonts/Analytico.woff') format('woff');
-    src: url('fonts/Analytico.ttf') format('ttf');
-    src: url('fonts/Analytico.otf') format('otf');
-    font-weight: normal;
-    font-style: normal;
-  }
-@font-face {
-    font-family: 'Analytico';
-    src: url('fonts/Analytico-bold.ttf') format('ttf');
-    font-weight: bold;
+/*
+Style overrides
+*/
+
+cite {
     font-style: normal;
 }
-@font-face {
-    font-family: 'Analytico';
-    src: url('fonts/Analytico-Italic.ttf') format('ttf');
-    font-weight: normal;
-    font-style: italic;
+
+.wp-block-quote cite {
+    display: block;
+    text-align: right;
 }
-@font-face {
-    font-family: 'Analytico';
-    src: url('fonts/Analytico-BoldItalic.ttf') format('ttf');
-    font-weight: bold;
-    font-style: italic;
-} */
 
-
+.wp-block-quote cite::before {
+    content: '‣ '
+}
 
 /*!
  *  Font Awesome 4.6.3 by @davegandy - http://fontawesome.io - @fontawesome
