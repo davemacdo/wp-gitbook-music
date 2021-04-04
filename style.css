@@ -20,10 +20,10 @@ Analytico fonts
     font-fallback: Times, serif;
     font-weight: 400;
     src: 
-        url(https://musc127.guidonianhand.com/wp-content/themes/wp-gitbook/fonts/analytico/Analytico.woff2) format('woff2'), 
-        url(https://musc127.guidonianhand.com/wp-content/themes/wp-gitbook/fonts/analytico/Analytico.woff) format('woff'), 
-        url(https://musc127.guidonianhand.com/wp-content/themes/wp-gitbook/fonts/analytico/Analytico.ttf) format('TrueType'), 
-        url(https://musc127.guidonianhand.com/wp-content/themes/wp-gitbook/fonts/analytico/Analytico.otf) format('OpenType');
+        url(fonts/analytico/Analytico.woff2) format('woff2'), 
+        url(fonts/analytico/Analytico.woff) format('woff'), 
+        url(fonts/analytico/Analytico.ttf) format('TrueType'), 
+        url(fonts/analytico/Analytico.otf) format('OpenType');
 }
 
 @font-face {
@@ -32,10 +32,10 @@ Analytico fonts
     font-fallback: Times, serif;
     font-weight: 700;
     src: 
-        url(https://musc127.guidonianhand.com/wp-content/themes/wp-gitbook/fonts/analytico/Analytico-Bold.woff2) format('woff2'), 
-        url(https://musc127.guidonianhand.com/wp-content/themes/wp-gitbook/fonts/analytico/Analytico-Bold.woff) format('woff'), 
-        url(https://musc127.guidonianhand.com/wp-content/themes/wp-gitbook/fonts/analytico/Analytico-Bold.ttf) format('TrueType'), 
-        url(https://musc127.guidonianhand.com/wp-content/themes/wp-gitbook/fonts/analytico/Analytico-Bold.otf) format('OpenType');
+        url(fonts/analytico/Analytico-Bold.woff2) format('woff2'), 
+        url(fonts/analytico/Analytico-Bold.woff) format('woff'), 
+        url(fonts/analytico/Analytico-Bold.ttf) format('TrueType'), 
+        url(fonts/analytico/Analytico-Bold.otf) format('OpenType');
 }
 
 @font-face {
@@ -45,10 +45,10 @@ Analytico fonts
     font-weight: 400;
     font-style: italic;
     src: 
-        url(https://musc127.guidonianhand.com/wp-content/themes/wp-gitbook/fonts/analytico/Analytico-Italic.woff2) format('woff2'), 
-        url(https://musc127.guidonianhand.com/wp-content/themes/wp-gitbook/fonts/analytico/Analytico-Italic.woff) format('woff'), 
-        url(https://musc127.guidonianhand.com/wp-content/themes/wp-gitbook/fonts/analytico/Analytico-Italic.ttf) format('TrueType'), 
-        url(https://musc127.guidonianhand.com/wp-content/themes/wp-gitbook/fonts/analytico/Analytico-Italic.otf) format('OpenType');
+        url(fonts/analytico/Analytico-Italic.woff2) format('woff2'), 
+        url(fonts/analytico/Analytico-Italic.woff) format('woff'), 
+        url(fonts/analytico/Analytico-Italic.ttf) format('TrueType'), 
+        url(fonts/analytico/Analytico-Italic.otf) format('OpenType');
 }
 
 @font-face {
@@ -58,10 +58,10 @@ Analytico fonts
     font-weight: 700;
     font-style: italic;
     src: 
-        url(https://musc127.guidonianhand.com/wp-content/themes/wp-gitbook/fonts/analytico/Analytico-BoldItalic.woff2) format('woff2'), 
-        url(https://musc127.guidonianhand.com/wp-content/themes/wp-gitbook/fonts/analytico/Analytico-BoldItalic.woff) format('woff'), 
-        url(https://musc127.guidonianhand.com/wp-content/themes/wp-gitbook/fonts/analytico/Analytico-BoldItalic.ttf) format('TrueType'), 
-        url(https://musc127.guidonianhand.com/wp-content/themes/wp-gitbook/fonts/analytico/Analytico-BoldItalic.otf) format('OpenType');
+        url(fonts/analytico/Analytico-BoldItalic.woff2) format('woff2'), 
+        url(fonts/analytico/Analytico-BoldItalic.woff) format('woff'), 
+        url(fonts/analytico/Analytico-BoldItalic.ttf) format('TrueType'), 
+        url(fonts/analytico/Analytico-BoldItalic.otf) format('OpenType');
 }
 
 /* @font-face {
